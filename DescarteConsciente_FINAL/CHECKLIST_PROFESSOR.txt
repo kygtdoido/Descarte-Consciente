@@ -1,0 +1,24 @@
+CHECKLIST DA ESPECIFICACAO
+
+[OK] Aplicacao desktop.
+[OK] Interface feita com javax.swing.
+[OK] Banco de dados MySQL.
+[OK] Login obrigatorio.
+[OK] Dois tipos de usuario: comum e administrador.
+[OK] CRUD de usuarios.
+[OK] CRUD de pontos de coleta.
+[OK] CRUD de lembretes.
+[OK] Dashboard com totais.
+[OK] Administrador inserido diretamente pelo script SQL.
+[OK] Login do administrador testado:
+     admin@descarte.com / admin
+[OK] Todas as telas principais abrem no editor Design do NetBeans.
+
+OBSERVACOES PARA A APRESENTACAO
+
+O mapa e esquematico. Ele usa as latitudes e longitudes do banco para
+posicionar os pontos com recursos simples de Swing/AWT. Nao depende de
+internet nem de biblioteca externa.
+
+O projeto usa classes, objetos, heranca, sobrescrita, Swing, JTable,
+DAO, JDBC e PreparedStatement, assuntos presentes na apostila.
