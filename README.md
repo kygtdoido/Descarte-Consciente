@@ -77,13 +77,13 @@ Antes de executar o projeto, é necessário ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/kygtdoido/Descarte-Consciente.git
 ```
 
 Depois, acesse a pasta do projeto:
 
 ```bash
-cd DescarteConsciente
+cd Descarte-Consciente/DescarteConsciente_FINAL
 ```
 
 ---
