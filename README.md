@@ -77,7 +77,7 @@ Antes de executar o projeto, é necessário ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/kygtdoido/Descarte-Consciente.git
+git clone https://github.com/kevynsouza/Descarte-Consciente.git
 ```
 
 Depois, acesse a pasta do projeto:
